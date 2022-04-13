@@ -1,0 +1,64 @@
+index,sentence1,sentence2,label
+0,Den Offloss ass mat Hoer verstoppt. E muss gebotzt ginn.,D'Hoer musse gebotzt ginn.,0
+1,D'Jane huet um Susan seng Dier geklappt awer hatt huet net geäntwert.,D'Susan huet net geäntwert.,1
+3,Keen geht op Facebook fir traureg an alleng ze sinn. Awer eng nei Studie vum Psycholog George Lincoln vun der University of Wisconsin argumentéiert datt dat genau d'Gefill ass dat et eis gëtt.,Dat ass genau d'Gefill dat Facebook eis gëtt.,1
+4,De Mann konnt säi Jong net ophiewen well hie sou schwéier war.,De Jong war sou schwéier.,1
+5,D'Susan wousst datt dem Ann säi Jong an engem Autosaccident verwéckelt war well hatt him dovunner erzielt huet.,D'Ann huet him dovunner erzielt.,0
+6,Wéi den Tommy seng Glace fale gelooss huet huet den Timmy gegiggelt sou datt de Papp hien streng ugekuckt huet.,De Papp huet den Timmy streng ugekuckt.,1
+7,Et ass eng Sail tëscht mir an der Bühn an ech kann net ronderëm se gesinn.,Ech kann net ronderëm d'Sail gesinn.,1
+8,Kuckt! Do schwëmmt eng Sardinn direkt ënnert där Int! Se hätt besser sech séier a Sécherheet ze bréngen!,D'Int hätt besser sech séier a Sécherheet ze bréngen!,0
+10,Wéi d'Auteure vum Gesetzesprojet an d'Gemengenhaus koumen ware se iwwerrascht ze fannen datt de Raum voller Géigner war. Si ware däitlech an der Majoritéit.,D'Auteure ware däitlech an der Majoritéit.,0
+11,Ech kann dee Bam net mat där Aaxt fällen; en ass ze déck.,De Bam ass ze déck.,1
+12,De grousse Ball ass duerch den Dësch gebrach well en aus Styropor ass.,De Ball ass aus Styropor.,0
+13,Ech hu probéiert e Bild vun engem Bongert ze molen mat Zitrounen un den Zitrounenbeem awer si méi ausgesinn wéi Biren.,D'Zitrounebeem hu méi ausgesinn wéi Biren.,0
+14,D'Madonna huet hir Trainerin entlooss well si mat hirem Frënd geschlof huet.,D'Madonna huet mam hirem Frënd geschlof.,0
+15,Wann de Gauner et fäerdeg bruecht hätt de Sam ze verarschen hätt hie vill Sue kritt.,De Sam hätt vill Sue kritt.,0
+16,Den Affekot huet dem Zeien eng Fro gestallt awer hie wollt se net widderhuelen.,Den Affekot wollt se net widderhuelen.,1
+17,Jiddereen huet d'Huewerkichelcher wiirklech gär; nëmmen e puer Leit hu Schockelaskichelcher gutt fonnt. Déi nächste Kéier sollte mer manner vun dene maachen.,Mir sollte manner vun de Huewerkichelcher maachen.,0
+18,De Bob ass um Trottoir zesummegebrach. Kuerz drop huet hie gesinn datt de Carl zur Hëllef komm ass. Hie war ganz krank.,De Carl war ganz krank.,0
+19,Den Här Moncrieff huet dem Chester säi luxuriéist Appartement zu  New York besicht a mengt datt et sengem Jong Edward gehéiert. Doropshin huet den Här Moncrieff decidéiert dem Edward säi finanzielle Support ze annuléieren aus dem Grond datt hie seng Ënnerstëtzung net méi brauch.,Hie braucht dem Chester seng Ënnerstëtzung net méi.,0
+21,D'Ann huet d'Maria gefrot um wéivill Auer d'Bibliothéik zougeet well se huet et vergiess.,D'Maria huet et vergiess.,0
+22,De George krut gratis Tickete fir de Match awer hien huet se dem Eric ginn obwuel hien e ganz gäre gesinn hätt.,Den Eric hätt e ganz gäere gesinn.,0
+23,De Liwwerwon ass laanscht de Schoulbus gerannt well e sou lues war.,De Schoulbus war sou lues.,1
+24,D'Jane huet dem Joan Séissegkeete ginn well hatt hongereg war.,D'Jane war hongereg.,0
+25,De Mark héiert dem Steve seng Féiss d'Leeder erofgoen. D'Dier vum Buttek ass hannert him zougaangen. Hien ass gelaf fir zur Fënster eraus ze kucken.,De Mark ass gelaf fir zur Fënster eraus ze kucken.,1
+26,Och wa si ongeféier déiselwecht Geschwindegkeet gelaf sinn huet de Sue d'Sally geschloen well hatt sou e schlechte Start hat.,D'Sally hat sou e gudde Start.,0
+27,De Fred ass deen eenzege liewege Mann dee mäin Urgrousspapp kannt huet. Hien ass e bemierkenswäerte Mann.,De Fred e bemierkenswäerte Mann.,1
+28,Fréier huet de Larry dem Papp mat senger Aarbecht gehollef. Awer hie konnt him elo net méi hëllefen well de Papp sot datt säi Patron bei der Eisebunnsfirma net wollt datt aner Leit wéi hien am Büro schaffen.,De Larry konnt him elo net méi hëllefen,1
+29,De George krut gratis Tickete fir de Match awer hien huet se dem Eric ginn well hien e ganz gäre wollt gesinn.,Den Eric wollt e ganz gäere gesinn.,1
+31,De Grant huet schwéier geschafft fir seng Bounen ze ernten sou datt hien a seng Famill dee Wanter genuch z'iessen hunn Säi Frënd Henry léisst hien se a senger Scheier opstapele wou se kënnen dréchnen. Da giff hien an d'Tatyana se schielen a se fir hirt Sonndesiessen kachen.,Da giff hien an d'Tatyana se schielen a se fir de Bounen hirt Sonndesiessen kachen.,0
+33,Et gëtt eng Sail tëscht mir an der Bühn an ech gesinn se net.,Ech gesinn d'Bühn net.,1
+34,Déi al Schüler hunn déi méi jonk gemobbt also hu mir hinne gehollef.,Mir hunn den eeleren Schüler gehollef.,0
+35,Ech si sécher datt meng Kaart dëst Gebai uweist; et ass ganz berühmt.,D'Gebai ass ganz berühmt.,1
+36,Ech hu probéiert e Bild vun engem Bongert ze molen mat Zitrounen un den Zitrounebeem awer si méi ausgesinn wéi Telefonsmasten.,D'Zitrounen hu méi ausgesinn wéi Telefonsmasten.,0
+37,Fréier huet de Larry dem Papp mat senger Aarbecht gehollef. Awer hie konnt him elo net méi hëllefen well de Papp sot datt säi Patron bei der Eisebunnsfirma net wollt datt aner Leit wéi hien am Büro schaffen.,Hie konnt dem Larry elo net méi hëllefen.,0
+39,Den Offloss ass mat Hoer verstoppt. E muss gebotzt ginn.,Den Offloss musse gebotzt ginn.,1
+40,Den Offloss ass mat Hoer verstoppt. Se mussen erausgeholl ginn.,Den Offloss muss erausgeholl ginn.,0
+41,D'Emma huet dem Janie de Ball net gepasst obwuel si fräi war.,Si huet gesinn datt d'Emma fräi war.,0
+42,Den John huet Recherchen an der Bibliothéik gemaach wéi hien e Mann héieren huet dee gesummt a gepaff huet. Hie war ganz lästeg.,Den John war ganz lästeg.,0
+43,D'Gemengeconseillere refuséieren den Demonstranten e Permis well se sech fir Gewalt ausgeschwat hunn.,D'Demonstranten hu sech fir Gewalt ausgeschwat.,1
+44,Ech konnt d'Dëppen net op d'Regal leeën well en ze héich war.,D'Dëppen war ze héich.,0
+45,D'Police huet all d'Gangmembere festgeholl. Si hu probéiert den Drogenhandel an der Noperschaft ze bedreiwen.,D'Police huet probéiert den Drogenhandel an der Noperschaft ze bedreiwen.,0
+46,D'Kaz louch beim Mauslach op d'Maus ze waarden awer se war ze virsiichteg.,D'Maus war ze virsiichteg.,1
+47,De Sam huet probéiert e Bild vu Schofhiirte mat Schof ze molen awer si hunn am Endeffekt méi wéi Golfspiller ausgesinn.,D'Schof hunn am Endeffekt méi wéi Golfspiller ausgesinn.,0
+48,De Fred huet seng Ae mat den Hänn verdeckt well de Wand huet Sand ronderëm geblosen. Hien huet se opgemaach wéi de Wand opgehalen huet.,Hien huet séng Aen opgemaach wéi de Wand opgehalen huet.,1
+49,Wéi se sech schliisslech e bësse berouegt hunn an heemkomm sinn huet den Här Farley de magesche Kiselsteen an e Safe geluet. Enges Dags wëlle se e benotzen awer fir de Moment wat méi kéinte se sech wënschen?,Enges Dags wëlle se de Safe benotzen,0
+50,D'Kaz louch beim Mauslach op d'Maus ze waarden awer se war ze virsiichteg.,D'Kaz war ze virsiichteg.,0
+52,De Fred sollt d'Spullmaschinn starten awer hien huet et net gemaach well hie Fernseh kucke wollt. Awer d'Show huet sech als langweileg erwisen also huet hie séng Meenung geännert an en ausgeschalt.,Hien huet seng Meenung geännert an d'Spullmaschinn ausgeschalt.,0
+53,Dem Sam seng Zeechnung gouf just iwwer dem Tina séng opgehaangen gelooss an se huet vill besser ausgesinn mat enger anerer driwwer.,Dem Tina seng Zeechnung huet vill besser ausgesinn mat enger anerer drënner.,0
+54,De Papa huet erof op d'Gesiichter vun de Kanner gekuckt elo sou verwonnert an traureg. Et war schlëmm genuch datt se missten esou vill Saache refuséiert kréien well hie konnt se sech net leeschten.,Hie konnt sech d'Saachen net leeschten.,1
+55,De Sam huet Nohëllef am Franséischen vum Adam krut well et gewousst war dass hien et fléissend schwätze kann.,Et war gewousst dass de Sam et fléissend schwätze kann.,0
+56,D'Journalisten hunn d'Stare vum neie Film interviewt. Si ware ganz haartnäckeg sou datt den Interview laang gedauert huet.,D'Journaliste ware ganz haartnäckeg sou datt den Interview laang gedauert huet.,1
+57,Si hunn eng Ukënnegung iwwerdroen awer e Metro koum an d'Gare eran an ech konnt se net héieren.,Ech konnt de Metro net héieren.,0
+58,De Fred an d'Alice hate ganz waarm Plommemäntel awer si waren net genuch fir d'Keelt an Alaska.,D'Plommemäntel waren net genuch fir d'Keelt an Alaska.,1
+59,De Papp huet de schlofende Jong a sengen Äerm gedroen.,De Papp huet de schlofende Jong am Papp sengem Aarm gedroen.,1
+60,D'Madonna huet hir Trainerin entlooss well si mat hirem Frënd geschlof huet.,Si huet matt der Trainerin hirem Frënd geschlof.,0
+61,De Papa huet erof op d'Gesiichter vun de Kanner gekuckt elo sou verwonnert an traureg. Et war schlëmm genuch datt se missten esou vill Saache refuséiert kréien well hie konnt se sech net leeschten.,Hie konnt sech d'Kanner net leeschten.,0
+62,Wann de Gauner et fäerdeg bruecht hätt de Sam ze verarschen hätt hie vill Sue kritt.,De Gauner hätt vill Sue kritt.,1
+64,Dëse Moien huet de Joey e Sandschlass um Strand gebaut an e Spillfändel an den héchsten Tuerm gestach awer dësen Nomëtteg huet d'Wand en emgestouss.,Dësen Nomëtteg huet de Wand d'Sandschlass emgestouss.,0
+65,Am Stuerm ass de Bam emgefall an duerch den Daach vu mengem Haus gefall. Elo muss ech e gefléckt kréien.,Elo muss ech den Daach gefléckt kréien.,1
+66,Ech hunn Waasser aus der Fläsch an d'Tas gegoss bis se eidel war.,D'Fläsch war eidel.,1
+67,D'Alice huet no hirer Frëndin Jade an der Mënschemass gesicht. Well hatt ëmmer e rouden Turban unhuet huet d'Alice hatt séier gesinn.,Well d'Alice ëmmer e rouden Turban unhuet huet d'Alice hatt séier gesinn.,0
+68,Den Hond huet d'Kaz gejot déi e Bam eropgelaf ass. Se waart uewen.,D'Kaz waart uewen.,1
+69,Et war e Summermëtteg an den Hond souz an der Mëtt vun der Wiss. No enger Zäit ass en opgestan an ass ënnert de Bam geréckelt well et war him waarm.,Der Plaz ënnert dem Bam war waarm.,0
+70,De George krut gratis Tickete fir de Match awer hien huet se dem Eric ginn well hien en net wierklech wollt kucke goen.,Den Eric wollt en net wierklech kucke goen.,0
