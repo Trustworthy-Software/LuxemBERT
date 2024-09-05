@@ -36,7 +36,14 @@ If you would like to use the LuxemBERT model or any of the datasets, please cite
     abstract = "Pre-trained Language Models such as BERT have become ubiquitous in NLP where they have achieved state-of-the-art performance in most NLP tasks. While these models are readily available for English and other widely spoken languages, they remain scarce for low-resource languages such as Luxembourgish. In this paper, we present LuxemBERT, a BERT model for the Luxembourgish language that we create using the following approach: we augment the pre-training dataset by considering text data from a closely related language that we partially translate using a simple and straightforward method. We are then able to produce the LuxemBERT model, which we show to be effective for various NLP tasks: it outperforms a simple baseline built with the available Luxembourgish text data as well the multilingual mBERT model, which is currently the only option for transformer-based language models in Luxembourgish. Furthermore, we present datasets for various downstream NLP tasks that we created for this study and will make available to researchers on request.",
 }
 ```
-Additionally, if you would like to use wither the L-SST2, L-RTE, or Sentence Negation datasets,
+Additionally, if you would like to use either the L-SST2, L-RTE, or Sentence Negation datasets,
  please cite our following paper:
 
- [reference forthcoming]
+```
+@inproceedings{lothritz2023comparing,
+  title={Comparing Pre-Training Schemes for Luxembourgish BERT Models},
+  author={Lothritz, Cedric and Ezzini, Saad and Purschke, Christoph and Bissyand{\'e}, Tegawend{\'e} and Klein, Jacques and Olariu, Isabella and Boytsov, Andrey and Lefebvre, Cl{\'e}ment and Goujon, Anne},
+  booktitle={Proceedings of the 19th Conference on Natural Language Processing (KONVENS 2023)},
+  pages={17--27},
+  year={2023}
+}```
